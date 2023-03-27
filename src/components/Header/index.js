@@ -20,10 +20,14 @@ const Header = () => (
       <div className="col-sm">
         <p>
           Experiência em desenvolvimento web trabalhando com as seguintes
-          tecnologias: Python(Django, Flask), PHP(Laravel 5), Node.js(Loopback),
-          C#, HTML, CSS, Bootstrap, Javascript, AngularJS, Angular 2+, VueJS,
-          GIT, Banco de dados(MySQL, SQLServer, Postgresql e MongoDB). SCRUM e
-          XP como metodologia ágil.
+          tecnologias:
+          <br />
+          Backend: Python(Django Rest, Flask) , Node.js(Loopback.io, ExpressJS){" "}
+          <br />
+          Frontend: HTML , CSS , Bootstrap , Material UI , Quasar , Javascript ,
+          Typescript , AngularJS , Angular 2+ , VueJS , ReactJS <br />
+          Banco de dados: MySQL , SQLServer , Postgresql , MongoDB <br />
+          Metodologia ágil: Scrum , Kanban
         </p>
       </div>
     </div>

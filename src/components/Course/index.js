@@ -17,6 +17,34 @@ const Course = () => (
       <div className="col-3"></div>
       <div className="col-9">
         <span>
+          <strong>Cientista de Dados</strong>
+        </span>
+        <br />
+        <span>
+          <i> Faculdade XP Educação - IGTI </i>
+        </span>
+        <br />
+      </div>
+    </div>
+
+    <div className="row mt-3">
+      <div className="col-3"></div>
+      <div className="col-9">
+        <span>
+          <strong>Arquiteto Big Data</strong>
+        </span>
+        <br />
+        <span>
+          <i> Faculdade XP Educação - IGTI </i>
+        </span>
+        <br />
+      </div>
+    </div>
+
+    <div className="row mt-3">
+      <div className="col-3"></div>
+      <div className="col-9">
+        <span>
           <strong>Nanodegree Fundamentos de Data Science I</strong>
         </span>
         <br />

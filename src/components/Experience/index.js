@@ -15,7 +15,76 @@ const Experience = () => (
     <div className="row">
       <div className="col-3">
         <span>
-          <strong>07/2019 - Atualmente</strong>
+          <strong>08/2022 - Atualmente</strong>
+        </span>
+      </div>
+      <div className="col-9">
+        <span>
+          <strong>Desenvolvedor de Software</strong>
+        </span>
+        <br />
+        <span>
+          <i> CITS - Centro Internacional de Tecnologia de Software  </i>
+        </span>
+        <br />
+        <div className="mt-3">
+          <p>
+            Desenvolvimento de solução de aplicações de tecnologia educacional, integração de sistemas.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="row">
+      <div className="col-3">
+        <span>
+          <strong>06/2022 - 08/2022</strong>
+        </span>
+      </div>
+      <div className="col-9">
+        <span>
+          <strong>Desenvolvedor de Software</strong>
+        </span>
+        <br />
+        <span>
+          <i> Instruct </i>
+        </span>
+        <br />
+        <div className="mt-3">
+          <p>
+          Atuação do desenvolvimento de automatização e gestão de infraestrutura de data centers e clouds.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="row">
+      <div className="col-3">
+        <span>
+          <strong>07/2020 - 05/2022</strong>
+        </span>
+      </div>
+      <div className="col-9">
+        <span>
+          <strong>Desenvolvedor de Software</strong>
+        </span>
+        <br />
+        <span>
+          <i> Sidia - Instituto de Tecnologia </i>
+        </span>
+        <br />
+        <div className="mt-3">
+          <p>
+            Desenvolvimento de sistema web para gestāo de procedimento administrativos.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="row">
+      <div className="col-3">
+        <span>
+          <strong>07/2019 - 08/2020</strong>
         </span>
       </div>
       <div className="col-9">

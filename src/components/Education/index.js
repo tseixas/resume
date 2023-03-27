@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import './styles.css';
+import "./styles.css";
 
 const Education = () => (
   <div id="education">
@@ -9,29 +9,26 @@ const Education = () => (
         <i className="material-icons">school</i>
       </span>
       Educação
-                </h4>
+    </h4>
     <hr />
     <div className="row">
-
       <div className="col-3">
         <span>
-          <strong>Cursando</strong>
+          <strong>Concluído</strong>
         </span>
       </div>
       <div className="col-9">
         <span>
-          <strong>Pós-graduação em Eng. de Software</strong>
+          <strong>Pós-graduação em Ciência de dados</strong>
         </span>
         <br />
         <span>
-          <i> FUCAPI </i>
+          <i> Faculdade XP Educação - IGTI </i>
         </span>
         <br />
       </div>
-
     </div>
     <div className="row mt-3">
-
       <div className="col-3">
         <span>
           <strong>Concluído</strong>
@@ -47,10 +44,8 @@ const Education = () => (
         </span>
         <br />
       </div>
-
     </div>
   </div>
-
 );
 
 export default Education;

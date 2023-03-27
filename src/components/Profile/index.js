@@ -48,15 +48,6 @@ const Profile = () => (
       <br />
     </div>
 
-    <div className="mt-3">
-      <span>
-        <strong>Skype</strong>
-      </span>
-      <br />
-      <span>thiago.seixas_1</span>
-      <br />
-    </div>
-
   </div>
 );
 
