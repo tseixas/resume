@@ -15,31 +15,30 @@ const Skill = () => (
     <div className="row">
       <div className="col-4">
         <span>
-          <strong>Proficiente:</strong>
+          <strong>Backend:</strong>
         </span>
       </div>
       <div className="col-8">
-        HTML, CSS, Javascript ES5 ES6, AngularJS, Angular 2+, PHP, Python,
-        Node.js
+        Python, NodeJS, PHP e C#
       </div>
     </div>
 
     <div className="row mt-3">
       <div className="col-4">
         <span>
-          <strong>Intermediário:</strong>
+          <strong>Frontend:</strong>
         </span>
       </div>
-      <div className="col-8">ReactJS, Git</div>
+      <div className="col-8">ReactJS, Angular, VueJS</div>
     </div>
 
     <div className="row mt-3">
       <div className="col-4">
         <span>
-          <strong>Inicante:</strong>
+          <strong>Outros:</strong>
         </span>
       </div>
-      <div className="col-8">Docker, Java, C#</div>
+      <div className="col-8">Docker, Git, Testes unitários</div>
     </div>
   </div>
 );

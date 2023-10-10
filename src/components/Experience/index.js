@@ -15,7 +15,7 @@ const Experience = () => (
     <div className="row">
       <div className="col-3">
         <span>
-          <strong>08/2022 - Atualmente</strong>
+          <strong>08/2022 - 07/2023</strong>
         </span>
       </div>
       <div className="col-9">
@@ -24,12 +24,21 @@ const Experience = () => (
         </span>
         <br />
         <span>
-          <i> CITS - Centro Internacional de Tecnologia de Software  </i>
+          <i> CITS - Centro Internacional de Tecnologia de Software </i>
         </span>
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de solução de aplicações de tecnologia educacional, integração de sistemas.
+            Desenvolvimento de soluções e aplicações de tecnologia voltadas para
+            a área educacional, atuando como desenvolvedor fullstack.
+          </p>
+          <p>
+            Desenvolvimento de aplicações serveless com python utilizando a ORM
+            peewee.
+          </p>
+          <p>
+            Front end utilizando ReactJS e Angular. Atuação em correção de bugs
+            e manutenção de sistemas legados e em produção.
           </p>
         </div>
       </div>
@@ -52,8 +61,16 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-          Atuação do desenvolvimento de automatização e gestão de infraestrutura de data centers e clouds.
+            Atuação no desenvolvimento de automatização e gestão de
+            infraestrutura de data centers e clouds utilizando python e Django
+            Rest Framework.
           </p>
+          <p>
+            Auxílio e suporte aos desenvolvedores juniors, refinamento de
+            tarefas com a equipe e clientes.
+          </p>
+
+          <p>Tecnolgias utilizadas: Python(Django Rest Framework)</p>
         </div>
       </div>
     </div>
@@ -75,7 +92,21 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de sistema web para gestāo de procedimento administrativos.
+            Desenvolvimento de sistemas para controle e gestão das áreas
+            administrativas de ambiente fabril utilizando Python com Django Rest
+            Framework, NodeJS e ReactJS.
+          </p>
+          <p>
+            Atuação no desenvolvimento como fullstack, participando de
+            definições tecnologicas, refinamento, melhorias e ajustes. Atuação
+            como tech lead do time web, participando de deploy, tendo mais
+            participações junto ao cliente, auxiliando no entendimento de
+            tarefas e refinamento das atividades cuidando da parte de
+            documentação de projeto e entregas.
+          </p>
+          <p>
+            Tecnologias utilizadas: Python(Django), NodeJS, ReactJS, MySQL e
+            MongoDB
           </p>
         </div>
       </div>
@@ -98,9 +129,10 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de sistema web para gestāo de documentos fiscais e
-            monitoramento de dispositivos. Utilizando Python(Flask), VueJS,
-            Vuetify e PostgreSQL.
+            Desenvolvimento de sistemas de gerenciamento de vendas, direcionado
+            para Pontos de vendas de lojas e supermercados com o objetivo de
+            monitorar SAT's. Nesse projeto foi utilizado no backend python com
+            Flask e no frontend VueJS.
           </p>
         </div>
       </div>
@@ -123,10 +155,12 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de sistema para controle e gerenciamento de Ingresso
-            de Mercadoria Nacional para a Zona Franca de Manaus. Neste projeto
-            foram utilizadas as seguintes tecnologias: Angular 4, Bootstrap 3,
-            C# e SQLServer.
+            Desenvolvimento de sistema para controle e gerenciamento de NF's de
+            mercadorias para a o orgão regulamentador do governo federal para
+            fiscalização de produtos e insumos para as fábricas do polo
+            industrial de Manaus. <br />
+            Atuei como Fullstack dando mais foco e sendo a referência técnica no
+            frontend usando Angular. Atuei também no backend utilizando C#.
           </p>
         </div>
       </div>
@@ -148,23 +182,15 @@ const Experience = () => (
         </span>
         <br />
         <div className="mt-3">
-          <p>
-            Desenvolvimento de sistema para meios de pagamentos via terminal POS
-            utilizando as seguintes tecnologias AngularJS, Node.JS, Python,
-            Bootstrap.
-          </p>
-
-          <p>
-            Desenvolvimento e manutenção de sistema de compra de terminais
-            POS(maquininhas de cartão) utilizando PHP com o framework PrestaShop
-            e Python.
-          </p>
-
-          <p>
-            Desenvolvimento de sistema web para integração de produtos em
-            Marketplaces, utilizando HTML, CSS, Bootstrap, Javascript, Jquery,
-            PHP(Laravel), MySQL e MongoDB. SCRUM como metodologia ágil.
-          </p>
+          Desenvolvimento de sistema para meios de pagamentos via terminal POS
+          utilizando as seguintes tecnologias AngularJS, Node.JS, Python,
+          Bootstrap. <br />
+          Desenvolvimento e manutenção de sistema de compra de terminais
+          POS(maquininhas de cartão) utilizando PHP com o framework PrestaShop e
+          Python. <br />
+          Desenvolvimento de sistema web para integração de produtos em
+          Marketplaces, utilizando HTML, CSS, Bootstrap, Javascript, Jquery,
+          PHP(Laravel), MySQL e MongoDB. SCRUM como metodologia ágil.
         </div>
       </div>
     </div>
@@ -187,7 +213,9 @@ const Experience = () => (
         <p className="mt-3">
           Desenvolvimento de sistema para construção de websites com AngularJS e
           Node.js. Manutenção em sistema e-commerce em PHP usando o framework
-          PrestaShop.
+          PrestaShop. <br />
+          Manutenção em sistema e-commerce, utilizando PHP, Javascript e
+          Bootstrap. Desenvolvimento de sistemas com Node.js e AngularJS.
         </p>
       </div>
     </div>

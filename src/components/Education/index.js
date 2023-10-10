@@ -19,7 +19,7 @@ const Education = () => (
       </div>
       <div className="col-9">
         <span>
-          <strong>Pós-graduação em Ciência de dados</strong>
+          <strong>MBA em Ciência de dados</strong>
         </span>
         <br />
         <span>

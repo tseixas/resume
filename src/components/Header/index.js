@@ -6,28 +6,24 @@ const Header = () => (
   <header id="header">
     <div className="row mt-5">
       <div className="col-sm">
-        <h1 className="font-weight-bold">Paulo Thiago Seixas Serrão</h1>
+        <h1 className="font-weight-bold">Thiago Seixas</h1>
       </div>
     </div>
 
     <div className="row">
       <div className="col-sm">
-        <h3>Desenvolvedor</h3>
+        <h3>Desenvolvedor de software</h3>
       </div>
     </div>
 
     <div className="row mt-3">
       <div className="col-sm">
         <p>
-          Experiência em desenvolvimento web trabalhando com as seguintes
-          tecnologias:
+          Desenvolvedor Fullstack com 8+ anos de experiência, atuando em
+          diversos projetos e utilizando diversas tecnologias.
           <br />
-          Backend: Python(Django Rest, Flask) , Node.js(Loopback.io, ExpressJS){" "}
-          <br />
-          Frontend: HTML , CSS , Bootstrap , Material UI , Quasar , Javascript ,
-          Typescript , AngularJS , Angular 2+ , VueJS , ReactJS <br />
-          Banco de dados: MySQL , SQLServer , Postgresql , MongoDB <br />
-          Metodologia ágil: Scrum , Kanban
+          Proativo, e sempre disposto a ajudar e encontrar a melhor forma de
+          solução.
         </p>
       </div>
     </div>

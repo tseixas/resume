@@ -4,7 +4,7 @@ import './styles.css';
 
 const Course = () => (
 
-  <div id="courses">
+  <div id="courses" className="mb-5">
     <h4>
       <span className="badge badge-pill badge-dark">
         <i className="material-icons">create</i>
@@ -14,6 +14,48 @@ const Course = () => (
     <hr />
 
     <div className="row">
+      <div className="col-3"></div>
+      <div className="col-9">
+        <span>
+          <strong>Introdução à Amazon Web Services: Principais Serviços</strong>
+        </span>
+        <br />
+        <span>
+          <i> LinkedIn </i>
+        </span>
+        <br />
+      </div>
+    </div>
+
+    <div className="row mt-3">
+      <div className="col-3"></div>
+      <div className="col-9">
+        <span>
+          <strong>FastAPI - APIs Modernas e Assíncronas com Python</strong>
+        </span>
+        <br />
+        <span>
+          <i> Udemy </i>
+        </span>
+        <br />
+      </div>
+    </div>
+
+    <div className="row mt-3">
+      <div className="col-3"></div>
+      <div className="col-9">
+        <span>
+          <strong>NextJS do zero ao avançado na prática 2023</strong>
+        </span>
+        <br />
+        <span>
+          <i> Udemy </i>
+        </span>
+        <br />
+      </div>
+    </div>
+
+    <div className="row mt-3">
       <div className="col-3"></div>
       <div className="col-9">
         <span>
